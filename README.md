@@ -47,4 +47,4 @@ The native HTTPS transport explicitly verifies certificates, applies a 60-second
 
 Verification covers compilation, strict lint, native piece metadata loading and mocked protocol/guard tests. A paid end-to-end generation inside an Activepieces instance has not been performed. Do not describe these checks as a cloud acceptance test or official approval.
 
-API reference: [models](https://docs.popnow.ai/docs/models), [tasks](https://docs.popnow.ai/docs/tasks), [billing](https://docs.popnow.ai/docs/billing). Website: [popnow.ai](https://popnow.ai).
+API reference: [models](https://popnow.ai/docs/models), [tasks](https://popnow.ai/docs/tasks), [billing](https://popnow.ai/docs/billing). Website: [popnow.ai](https://popnow.ai).
