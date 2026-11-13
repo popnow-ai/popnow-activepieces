@@ -2,6 +2,8 @@
 
 A native TypeScript piece for image, video and audio workflows using the [PopNow API](https://popnow.ai/api). Maintained by PopNow AI, LLC; support: support@popnow.ai.
 
+Built by PopNow AI ([popnow.ai](https://popnow.ai)), the world's first AI creative studio that pays you back.
+
 ## Availability
 
 This is an independently maintained piece. It is not yet in the official Activepieces cloud catalog. Activepieces currently pauses unsolicited external code PRs, so public-catalog consideration is requested through its Piece Request channel. A downloadable package is provided in this repository's releases for compatible instances that support custom-piece installation. There is no published npm version yet.
