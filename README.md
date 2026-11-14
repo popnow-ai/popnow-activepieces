@@ -2,7 +2,7 @@
 
 A native TypeScript piece for image, video and audio workflows using the [PopNow API](https://popnow.ai/api). Maintained by PopNow AI, LLC; support: support@popnow.ai.
 
-Built by PopNow AI ([popnow.ai](https://popnow.ai)), the world's first AI creative studio that pays you back.
+Built by PopNow AI ([popnow.ai](https://popnow.ai)), the world's first AI studio with automatic price protection.
 
 ## Availability
 
